@@ -1,0 +1,15 @@
+---
+title: FOREVR
+timezone: Australia/Brisbane
+collections:
+  uploads:
+    title: Uploads
+    output: true
+email: thebandforevr@gmail.com
+description: 'Official repository of online resources relating to the business and
+  marketing of the brand FOREVR, based in Brisbane, Australia
+
+'
+url: http://thebandforevr.com
+twitter_username: thebandforevr
+markdown: kramdown
